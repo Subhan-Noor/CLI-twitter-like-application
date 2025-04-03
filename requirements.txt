@@ -1,0 +1,3 @@
+Core dependencies
+sqlite3
+No external dependencies required beyond Python standard library
