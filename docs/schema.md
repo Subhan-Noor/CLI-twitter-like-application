@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the database schema for the CMPUT 291 Mini Project 1 Twitter-like application. The database uses SQLite and consists of several tables designed to store user information, tweets, retweets, hashtag mentions, follows relationships, and favorite lists.
+This document outlines the database schema. The database uses SQLite and consists of several tables designed to store user information, tweets, retweets, hashtag mentions, follows relationships, and favorite lists.
 
 ## Tables
 
