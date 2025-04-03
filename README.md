@@ -50,5 +50,6 @@ Where `<database_file>` is the path to the SQLite database file.
 
 ## Acknowledgments
 
-- No external code was used beyond standard library functions
-- [Any other acknowledgments if applicable]
+This project makes use of concepts and code patterns from the following sources:
+1. **Custom Exception Implementation** GeeksforGeeks - "Define Custom Exceptions in Python" URL: https://www.geeksforgeeks.org/define-custom-exceptions-in-python/ Date accessed: March 16, 2025
+2. **Exception-based Control Flow** Reddit r/pythontips - "Don't use sys.exit(1), raise an exception or assert instead!" URL: https://www.reddit.com/r/pythontips/comments/d0aysf/dont_use_sysexit1_raise_an_exception_or_assert/ Date accessed: March 16, 2025
