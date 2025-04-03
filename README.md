@@ -20,7 +20,6 @@ This project implements a command-line Twitter-like application for CMPUT 291 (W
 ```
 twitter-app/
 ├── src/              # Source code directory
-├── tests/            # Test files (if any)
 ├── data/             # Sample database for testing
 ├── docs/             # Documentation
 ├── requirements.txt  # Dependencies
